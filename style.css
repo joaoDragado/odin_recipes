@@ -1,0 +1,31 @@
+body {
+  background-attachment: fixed;
+  background-image: linear-gradient(135deg, oldlace, tan);
+}
+
+h1, h2, h3 {
+  color: dimgray;
+  font-style: italic;
+  font-variant: small-caps;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+a {
+  color: sienna;
+}
+
+li {
+  line-height: 1.4;
+}
+
+img {
+  width: auto;
+  margin: auto;
+  display: block;
+  border-radius: 5px;
+}
